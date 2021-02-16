@@ -1,1 +1,8 @@
-.git .ipynb_checkpoints Files Handin_template.ipynb modules output.txt README.md requirements.txt Week_1.ipynb Week_2.ipynb 
+#påpå
+
+#Hej
+
+#på123
+
+#påpå
+
