@@ -1,8 +1,3 @@
-#påpå
-
-#Hej
-
-#på123
-
-#påpå
-
+Alex,Male,Image_url,3,physics,Nicolaj,8,45,7,Gym,Tess,3,10,10,English,Lise,1,10,10
+Andreas,Male,Image_url,3,Computer Science,Arne,2,25,7,Computer Science,kurt,3,25,10,Math,Tess,4,40,10
+Victor,Male,Image_url,3,physics,Nicolaj,5,10,12,Danglish,Arne,2,10,-3,Math,Tess,3,20,-3
