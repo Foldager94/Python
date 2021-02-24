@@ -2,4 +2,3 @@
 # python Handin Christoffer Foldager
 
 Week 1 assignments done
-
